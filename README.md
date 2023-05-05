@@ -43,10 +43,9 @@ Although the classifications are technically ordinal data that could be visualiz
 
 The initial range that was used for the Total Number of Recalls map was the minimum and maximum of the recall_count; however, this made it hard to tell a difference in the colors of the intermediate values because of the extreme outliers. To mitigate this, I changed the range to the first and third quartiles so that the colors were scaled better.
 
-[Using range min to max recall_count](./data/recal_count_first_attempt.png)
+[Using range min to max recall_count](./data/images/recal_count_first_attempt.png)
 
-Using range q1 to q3 recall_count:
-(put image here)
+[Using range q1 to q3 recall_count](./data/images/recall_count_final.png)
 
 For the Top Reason for Recall map, I used a discrete color scale because it allows a good visualization for the nominal data. You can see the top reason for recall by state, and also see what other states have the same, or different most frequently occurring recall.
 
