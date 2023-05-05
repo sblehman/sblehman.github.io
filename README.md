@@ -29,7 +29,7 @@ With these fields, I cleaned and aggregated the data:
 	- I took the most frequent recall reason in each state to make "top_recall"
 	- Additionally, I made a new field by taking the count of recalls in each state to make "recall_count"
 	
-Finally, to make the choropleth map I needed a GeoJson file, which was found [here](https://www.kaggle.com/datasets/pompelmo/usa-states-geojson) on Kaggle and can be found in the us-states.json (link to file).
+Finally, to make the choropleth map I needed a GeoJson file, which was found [here](https://www.kaggle.com/datasets/pompelmo/usa-states-geojson) on Kaggle and can be found in the [us-states.json](./data/us-states.json).
 
 ## Rationale of design choices:
 
