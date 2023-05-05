@@ -45,7 +45,7 @@ The initial range that was used for the Total Number of Recalls map was the mini
 
 Using range min to max recall_count:
 ![alt text][recall_count_min_max]
-[recall_count_min_max]: ./data/images/recall_count_first_attempt.png "Total Number of Recalls with range min to max recall_count"
+[recall_count_min_max]: data/images/recal_count_first_attempt.png "Total Number of Recalls with range min to max recall_count"
 
 Using range q1 to q3 recall_count:
 (put image here)
