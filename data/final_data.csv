@@ -1,0 +1,53 @@
+,state,avg_class,top_recall,recall_count
+0,VA,2.492424242424242,L. monocytogenes,132
+1,GA,2.443991853360489,Undeclared or mislabeled,491
+2,NC,2.4988399071925755,L. monocytogenes,431
+3,MN,2.3229329173166926,Spoilage,641
+4,CT,2.3777777777777778,Undeclared or mislabeled,90
+5,NJ,2.3225806451612905,Undeclared or mislabeled,713
+6,SC,2.306122448979592,Undeclared or mislabeled,49
+7,NY,2.461302681992337,Undeclared or mislabeled,1305
+8,IN,2.2606635071090047,Undeclared or mislabeled,211
+9,AL,2.3125,Undeclared or mislabeled,32
+10,MI,2.230456026058632,GMP,1228
+11,MA,2.1151271753681393,Spoilage,747
+12,WA,2.5008375209380236,L. monocytogenes,1194
+13,WI,2.639148936170213,L. monocytogenes,1175
+14,KS,2.8241206030150754,E. coli,199
+15,FL,2.4527220630372493,L. monocytogenes,1047
+16,OR,2.4600760456273765,L. monocytogenes,789
+17,CA,2.4742589703588145,L. monocytogenes,2564
+18,AR,2.3157894736842106,Undeclared or mislabeled,38
+19,IL,2.2938218390804597,Undeclared or mislabeled,1392
+20,UT,2.072992700729927,Undeclared or mislabeled,137
+21,TX,2.5427652733118973,L. monocytogenes,1555
+22,MD,2.4345549738219896,Spoilage,191
+23,WV,2.4545454545454546,Salmonella,11
+24,ID,2.552380952380952,L. monocytogenes,105
+25,MO,2.2526315789473683,Chloramphenicol,285
+26,RI,2.1315789473684212,Undeclared or mislabeled,76
+27,ME,2.486842105263158,Undeclared or mislabeled,76
+28,NH,2.1254901960784314,Undeclared or mislabeled,255
+29,OH,2.6081242532855438,L. monocytogenes,837
+30,PA,2.2469635627530367,Undeclared or mislabeled,741
+31,SD,3.0,L. monocytogenes,3
+32,VT,2.2911392405063293,Foreign Material,79
+33,ND,2.125,Foreign Material,104
+34,CO,2.5,Salmonella,224
+35,WY,2.0185185185185186,Undeclared or mislabeled,54
+36,NV,2.4634146341463414,Salmonella,123
+37,DE,2.6666666666666665,L. monocytogenes,24
+38,AZ,2.550185873605948,L. monocytogenes,269
+39,LA,2.625,Undeclared or mislabeled,32
+40,OK,2.3559322033898304,Undeclared or mislabeled,59
+41,DC,1.375,Undeclared or mislabeled,8
+42,MT,1.9411764705882353,Allergen,17
+43,PR,2.073446327683616,Undeclared or mislabeled,177
+44,NM,2.773026315789474,Salmonella,304
+45,IA,2.076923076923077,Undeclared or mislabeled,312
+46,AK,2.2533333333333334,Undeclared or mislabeled,75
+47,KY,2.152941176470588,Allergen,170
+48,MS,2.6578947368421053,Allergen,38
+49,NE,2.365079365079365,L. monocytogenes,63
+50,TN,2.4195804195804196,L. monocytogenes,143
+51,HI,2.7872340425531914,Salmonella,47
