@@ -43,9 +43,7 @@ Although the classifications are technically ordinal data that could be visualiz
 
 The initial range that was used for the Total Number of Recalls map was the minimum and maximum of the recall_count; however, this made it hard to tell a difference in the colors of the intermediate values because of the extreme outliers. To mitigate this, I changed the range to the first and third quartiles so that the colors were scaled better.
 
-Using range min to max recall_count:
-![alt text][recall_count_min_max]
-[recall_count_min_max]: data/images/recal_count_first_attempt.png "Total Number of Recalls with range min to max recall_count"
+[Using range min to max recall_count](./data/recal_count_first_attempt.png)
 
 Using range q1 to q3 recall_count:
 (put image here)
