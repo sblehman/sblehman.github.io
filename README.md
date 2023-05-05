@@ -1,6 +1,7 @@
 # Using FDA Food Enformcement Dataset from Kaggle to Make a Choropleth Map
 
-(Link to youtube here)
+Video:
+https://youtu.be/0Wv7O8JZv9I
 
 ---
 # Documentation
@@ -51,4 +52,13 @@ For the Top Reason for Recall map, I used a discrete color scale because it allo
 
 ## Information Learned from Visualizations
 
-(add more pictures and conlusions)
+- Average Classification: 
+	- South Dakota on average has the least severe product recall classifications; however, this is also the state with the least amount of recalls
+	- Montana has on average has the most severe product recall classifications
+- Total Number of Recalls:
+	- California has the most number of product recalls
+	- South Dakota has the least number of product recalls
+- Top Reason for Recall:
+	- Kansas is the only state with the most frequently occuring recall reason of E. coli
+	- Michigan is the only state with the most frequently occuring recall reason of Good Manufacturing Practices (GMP)
+	- Most of the nation's reason for recalls is Undeclared/Mislabeled or L. monocytogenes
